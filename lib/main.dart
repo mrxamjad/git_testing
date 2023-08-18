@@ -59,6 +59,7 @@ class _MyHomePageState extends State<MyHomePage> {
       // called again, and so nothing would appear to happen.
       _counter++;
       _counter --;
+      // this is the comment to check wheather the git is working or not
     });
   }
 
